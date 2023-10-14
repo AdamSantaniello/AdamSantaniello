@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Adam Santaniello, and I am a software engineer in Boston, MA. I currently work as a Software Engineer III for Fulfillment & Operations at Babylist.
+
+- 🌱 I’m currently learning and working with Ruby on Rails
+- 💻 I've previously worked with .NET, NodeJS, and React
+- 💬 Ask me about refactoring, code smells, and design patterns
+- 📫 How to reach me: https://www.linkedin.com/in/adamsantaniello/
+- ⚡ Fun fact: I've played various woodwind instruments for over a decade
+
 <!--
 **AdamSantaniello/AdamSantaniello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
