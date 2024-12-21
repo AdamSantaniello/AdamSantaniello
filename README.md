@@ -2,7 +2,7 @@
 
 My name is Adam Santaniello, and I am a software engineer in Boston, MA. I currently work as a Software Engineer III for Fulfillment & Operations at Babylist.
 
-- 🌱 I’m currently learning and working with Ruby on Rails
+- 🌱 I currently work with Ruby on Rails for Fullfillment & Operations Technology at [Babylist](https://www.babylist.com/about)
 - 💻 I've previously worked with .NET, NodeJS, and React
 - 💬 Ask me about refactoring, code smells, and design patterns
 - 📫 How to reach me: https://www.linkedin.com/in/adamsantaniello/
